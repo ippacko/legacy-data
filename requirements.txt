@@ -1,0 +1,4 @@
+# The core project uses only the Python standard library.
+# Optional extensions for a portfolio presentation:
+# duckdb>=1.0
+# pandas>=2.2
